@@ -23,7 +23,7 @@ Este projeto apresenta uma interface minimalista com um `UIStepper` integrado, o
 
 | Tela 1 | Tela 2 | Tela 3 | Tela 4 |
 |--------|--------|--------|--------|
-| ![Tela 1](screenshots/tela0) | ![Tela 2](screenshots/tela10) | ![Tela 3](screenshots/tela80) | ![Tela 4](screenshots/tela100)
+| ![Tela 1](screenshots/tela0.png) | ![Tela 2](screenshots/tela10.png) | ![Tela 3](screenshots/tela80.png) | ![Tela 4](screenshots/tela100.png)
 
 
 ## 🚀 Como Rodar o Projeto  
