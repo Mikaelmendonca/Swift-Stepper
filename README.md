@@ -23,8 +23,8 @@ Este projeto apresenta uma interface minimalista com um `UIStepper` integrado, o
 
 | Tela 1 | Tela 2 | Tela 3 | Tela 4 |
 |--------|--------|--------|--------|
-| ![Tela 1](screenshots/Simulator Screenshot - iPhone 15 Pro - 2025-02-21 at 19.45.45.png) | ![Tela 2](screenshots/Simulator Screenshot - iPhone 15 Pro - 2025-02-21 at 20.21.03.png) | ![Tela 3](screenshots/Simulator Screenshot - iPhone 15 Pro - 2025-02-21 at 20.21.13.png) | ![Tela 4](screenshots/Simulator Screenshot - iPhone 15 Pro - 2025-02-21 at 20.21.17.png)
-screenshots/Simulator Screenshot - iPhone 15 Pro - 2025-02-21 at 20.21.17.png
+| ![Tela 1](screenshots/tela0) | ![Tela 2](screenshots/tela10) | ![Tela 3](screenshots/tela80) | ![Tela 4](screenshots/tela100)
+
 
 ## 🚀 Como Rodar o Projeto  
 
