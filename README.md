@@ -28,7 +28,7 @@ Este projeto apresenta uma interface minimalista com um `UIStepper` integrado, o
 
 ## 🚀 Como Rodar o Projeto  
 
-1️⃣ **Clone o repositório:**  
+ **Clone o repositório:**  
 
 git clone https://github.com/Mikaelmendonca/Swift-Stepper.git
 
